@@ -1,8 +1,8 @@
 /* 
  * File:   Classifier.h
- * Author: ayush
+ * Author: Udhav
  *
- * Created on 4 November, 2012, 7:33 PM
+ * Created on June, 2020, 7:33 PM
  */
 
 #ifndef CLASSIFIER_H
